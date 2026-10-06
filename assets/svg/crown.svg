@@ -1,0 +1,9 @@
+# Al Arsh Crown SVG
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 80" fill="none">
+  <path d="M5 70 L20 20 L35 50 L50 5 L65 50 L80 20 L95 70 Z" 
+        fill="currentColor" stroke="none"/>
+  <circle cx="5"  cy="70" r="6" fill="currentColor"/>
+  <circle cx="95" cy="70" r="6" fill="currentColor"/>
+  <circle cx="50" cy="5"  r="6" fill="currentColor"/>
+  <rect x="2" y="70" width="96" height="8" rx="4" fill="currentColor"/>
+</svg>
